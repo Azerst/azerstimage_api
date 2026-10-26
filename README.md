@@ -1,1 +1,0 @@
-# azerstimage_api
